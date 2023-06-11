@@ -14,7 +14,7 @@ COMING SOON
 ## Features Implemented
 - Message of the Day
 - Online Matchmaking
-- Leaderboards (WIP)
+- Leaderboards (Mostly working, band stuff might still need looking at)
 - Entity storage (characters, bands)
 - Linked account spoofing to unlock the "Link Your Account to Rockband.com" goal/achievement
 
